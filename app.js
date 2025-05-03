@@ -1,10 +1,5 @@
-// Currency Converter
+let str = "NOEL CARTER RICHMY"
 
-// $MXN to $USD
-
-// MXN = USD x 19.64
-
-let USD = 450000
-let MXN = USD * 19.64
-
-console.log(MXN)
+for (let i = 0; i < str.length; ++i) {
+console.log(str[i])
+}
