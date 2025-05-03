@@ -1,5 +1,6 @@
-let str = "NOEL CARTER RICHMY"
-
-for (let i = 0; i < str.length; ++i) {
-console.log(str[i])
+// Function Declaration
+function greetUser(name) {
+  console.log("Hello, Noel!")
 }
+// call the function
+greetUser("Noel")
